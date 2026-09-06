@@ -1,1 +1,1 @@
-Git is easy!
+GitHub is my version control practice.
