@@ -1,1 +1,1 @@
-This change came from GitHub!
+I cloned this repository successfully!
